@@ -4,7 +4,7 @@
 
 This project is part of **CAB420: Machine Learning** at QUT. It focuses on applying and evaluating different regression models (Linear, Ridge, and LASSO) to predict **violent crime rates per capita** using **socio-economic data** from the 1990 US Census.
 
-The assignment demonstrates practical application of:
+The project demonstrates practical application of:
 - Preprocessing techniques
 - Linear and regularised regression
 - Model tuning and evaluation
@@ -21,7 +21,7 @@ Given socio-economic attributes of US communities, predict the number of violent
 
 ## 🧠 What I Learned
 
-Through this assignment, I have gained proficiency in:
+Through this project, I have gained proficiency in:
 - 🧮 **Linear, Ridge, and LASSO Regression** using both `statsmodels` and `sklearn`
 - 🧼 **Data Preprocessing**, including standardization and feature selection
 - 📊 **Model Evaluation** using RMSE and R² score on training, validation, and test datasets
