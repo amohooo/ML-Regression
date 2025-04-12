@@ -59,7 +59,6 @@ Through this project, I have gained proficiency in:
 - Discuss ethical limitations and concerns in socio-economic modelling
 
 ---
----
 
 ## ✅ Results Summary
 
