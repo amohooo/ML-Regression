@@ -1,4 +1,4 @@
-# CAB420 Assignment 1A - Machine Learning Models for Socio-Economic Crime Prediction
+# CAB420 Project - Machine Learning Models for Socio-Economic Crime Prediction
 
 ## 📘 Overview
 
